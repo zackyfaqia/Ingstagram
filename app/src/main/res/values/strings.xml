@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Ingstagram</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Story Details</string>
+    <string name="add_story">Upload Story</string>
+    <string name="item_name">Item Name</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="username_hint">Input your name</string>
+    <string name="email_hint">Input your email</string>
+    <string name="password_hint">Input your password</string>
+    <string name="no_acc">Do not have account? Register now!</string>
+    <string name="have_acc">Already have and account? Login now!</string>
+    <string name="login_success">Login successfully</string>
+    <string name="regist_success">Register successfully</string>
+    <string name="regist_failed">Register failed</string>
+    <string name="permission_failed">Do not get permission</string>
+    <string name="upload_failed">Your uploaded file was not successful</string>
+    <string name="upload_success">Successfully uploaded the file</string>
+    <string name="description_empty">Description must be filled</string>
+    <string name="image_empty">Image must be filled</string>
+    <string name="picture_choose">Choose a Picture</string>
+    <string name="password_error">Password must contain at least 8 characters</string>
+
+
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+
+    <string name="empty_list">The list is empty</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <string name="retry">Try again</string>
+</resources>
